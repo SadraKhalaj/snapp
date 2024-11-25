@@ -224,3 +224,6 @@ main .super-app .cards-container .card p {
   color: #a3a3a3;
   margin-top: 10px;
 }
+.mobile-nav{
+  display: none;
+}
